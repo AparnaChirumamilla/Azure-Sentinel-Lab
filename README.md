@@ -36,8 +36,6 @@ In this repository, i setup Azure Sentinal (SIEM) and connect it to a live virua
 
 ![image](https://user-images.githubusercontent.com/8320161/197982793-5bca6b10-9e29-4e8c-b477-78d71be42cc4.png)
 
-![image](https://user-images.githubusercontent.com/8320161/197990720-8cf76e43-947f-4859-8d57-900b9b517ac5.png)
-
 
 ## Log into VM with Remote Desktop
 
