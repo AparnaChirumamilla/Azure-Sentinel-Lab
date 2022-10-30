@@ -2,6 +2,8 @@
 
 In this repository, i setup Azure Sentinal (SIEM) and connect it to a live virual machine acting as a honey pot. Sentinel map shows live RDP bruteforce attacks all around the world. I will use custom PowerShell script to look up the attackers Geolocation information and plot it on an Azure Sentinel Map.
 
+SIEM setup described here will provide exposure on Azure portal, Azure Sentinel, Kusto Query Language (KQL) and Network Security Groups(NSG) in Azure.
+
 ## Languages Used
 ### Powershell
 
